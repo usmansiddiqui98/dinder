@@ -1,2 +1,2 @@
 # dinder
-averaaaaaaaaaaaaaaa
+An app for confused foodies :)
